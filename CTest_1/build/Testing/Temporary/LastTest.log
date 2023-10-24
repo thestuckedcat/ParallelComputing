@@ -1,0 +1,20 @@
+Start testing: Oct 20 23:21 PDT
+----------------------------------------------------------
+1/1 Testing: mympiapp.ctest
+1/1 Test: mympiapp.ctest
+Command: "/usr/bin/sh" "/home/stuckedcat/CTest_1/mympiapp.ctest"
+Directory: /home/stuckedcat/CTest_1/build
+"mympiapp.ctest" start time: Oct 20 23:21 PDT
+Output:
+----------------------------------------------------------
+### Maximum relative error in matching lines = 2.42e-05 at line 1 field 4
+### Maximum relative error in matching lines = 2.19e-05 at line 1 field 4
+<end of output>
+Test time =  30.05 sec
+----------------------------------------------------------
+Test Passed.
+"mympiapp.ctest" end time: Oct 20 23:21 PDT
+"mympiapp.ctest" time elapsed: 00:00:30
+----------------------------------------------------------
+
+End testing: Oct 20 23:21 PDT
