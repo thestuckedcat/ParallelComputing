@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stuckedcat/CTest_1/MPITimeIt.cpp
+unistd.h
+-
+stdio.h
+-
+mpi.h
+-
+
+/usr/include/x86_64-linux-gnu/mpich/mpi.h
+stddef.h
+-
+cstdint
+-
+stdint.h
+-
+mpio.h
+/usr/include/x86_64-linux-gnu/mpich/mpio.h
+mpicxx.h
+/usr/include/x86_64-linux-gnu/mpich/mpicxx.h
+
+/usr/include/x86_64-linux-gnu/mpich/mpicxx.h
+stdio.h
+-
+
+/usr/include/x86_64-linux-gnu/mpich/mpio.h
+mpi.h
+/usr/include/x86_64-linux-gnu/mpich/mpi.h
+

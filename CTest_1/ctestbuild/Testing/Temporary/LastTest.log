@@ -1,0 +1,22 @@
+Start testing: Oct 20 23:16 PDT
+----------------------------------------------------------
+1/1 Testing: mympiapp.ctest
+1/1 Test: mympiapp.ctest
+Command: "/usr/bin/sh" "/home/stuckedcat/CTest_1/mympiapp.ctest"
+Directory: /home/stuckedcat/CTest_1/ctestbuild
+"mympiapp.ctest" start time: Oct 20 23:16 PDT
+Output:
+----------------------------------------------------------
+/home/stuckedcat/CTest_1/mympiapp.ctest: 3: ./TimeIt: not found
+[proxy:0:0@ubuntu] HYDU_create_process (utils/launch/launch.c:74): execvp error on file ./MPITimeIt (No such file or directory)
+[proxy:0:0@ubuntu] HYDU_create_process (utils/launch/launch.c:74): execvp error on file ./MPITimeIt (No such file or directory)
+[proxy:0:0@ubuntu] HYDU_create_process (utils/launch/launch.c:74): execvp error on file ./MPITimeIt (No such file or directory)
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"mympiapp.ctest" end time: Oct 20 23:16 PDT
+"mympiapp.ctest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 20 23:16 PDT

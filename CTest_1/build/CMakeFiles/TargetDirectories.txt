@@ -1,0 +1,6 @@
+/home/stuckedcat/CTest_1/build/CMakeFiles/rebuild_cache.dir
+/home/stuckedcat/CTest_1/build/CMakeFiles/edit_cache.dir
+/home/stuckedcat/CTest_1/build/CMakeFiles/test.dir
+/home/stuckedcat/CTest_1/build/CMakeFiles/MPITimeIt.dir
+/home/stuckedcat/CTest_1/build/CMakeFiles/distclean.dir
+/home/stuckedcat/CTest_1/build/CMakeFiles/TimeIt.dir
